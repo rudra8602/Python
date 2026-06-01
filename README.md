@@ -1,0 +1,1 @@
+This repository will follow my journey of learning python . I will be following different sources for my learning but mainly i will follow the course on freecodecamp. There will also be some projects uplaoded by me on this repo which i think are viable for this repo. I am trying to learn python for data science so hopefully this repo will go in that direction in the future.
